@@ -1,2 +1,2 @@
 # ProyectReact
-Prueba de proyecto para integracion continua y Juananadas
+Prueba de proyecto para integracion continua. 
