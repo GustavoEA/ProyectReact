@@ -1,2 +1,2 @@
 # ProyectReact
-Prueba de proyecto en react + jenkins 
+Prueba de proyecto para integracion continua y Juananadas
