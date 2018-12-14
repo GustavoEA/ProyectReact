@@ -10,3 +10,5 @@ PASO 2
 
 - Con el programa SourceTree clonamos los datos del proyecto dentro de GIT
 
+
+NOTA: LAS CARPETAS CON MUCHOS ARCHIVOS MEJOR INSERTARLAS SI LA RUTA MADRE
